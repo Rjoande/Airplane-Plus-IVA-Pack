@@ -1,0 +1,8 @@
+# Local Claude Code workspace: project hub, internal notes and session settings — never published.
+/CLAUDE.md
+/notes/
+/.claude/
+
+# Release archives and Python caches
+*.zip
+__pycache__/
