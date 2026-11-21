@@ -6,3 +6,7 @@
 # Release archives and Python caches
 *.zip
 __pycache__/
+
+# Generators and their reports stay local (not distributed, not versioned)
+/tools/
+/tabella_corrispondenza.*
