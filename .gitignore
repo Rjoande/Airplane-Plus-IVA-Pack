@@ -10,3 +10,6 @@ __pycache__/
 # Generators and their reports stay local (not distributed, not versioned)
 /tools/
 /tabella_corrispondenza.*
+
+# Unity project for prop placement (local, like TantaresIVAExpansion)
+/UnityProject/
