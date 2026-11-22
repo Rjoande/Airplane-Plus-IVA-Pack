@@ -12,8 +12,6 @@ Toolbar Controller: https://forum.kerbalspaceprogram.com/index.php?/topic/169509
 
 Click Through Blocker: https://forum.kerbalspaceprogram.com/index.php?/topic/170747-112x-click-through-blocker-new-dependency/
 
-Raster Prop Monitor: https://forum.kerbalspaceprogram.com/index.php?/topic/190737-18x-112x-rasterpropmonitor-adopted/ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 
-
 Installation:
 
 Place the downloaded file inside the GameData folder & Replace any existing files as well as install all dependencies.
