@@ -1,0 +1,13 @@
+This folder is not covered by the pack's CC BY-NC-SA 4.0 licence.
+
+model.mu, planeHUDdiffuse.png, screen.png, ladder.dds, hud-overlay.dds, heading.dds, leftscale.dds, rightscale.dds
+come unmodified from RasterPropMonitor (JSI/RasterPropMonitor/Library/Components/HUD):
+  RasterPropMonitor Copyright (C) 2013-2017 by Mihara (Eugene Medvedev), MOARdV, and other contributors
+  Licence: GNU General Public License version 3, full text in LICENSE-GPL-3.0.txt
+  Source: https://github.com/JonnyOThan/RasterPropMonitor
+
+APIP_BasicHUD.cfg is adapted from MAS_JSI_BasicHUD, a prop config of MOARdV's Avionics Systems
+(Copyright (c) 2016-2019 MOARdV; prop configs licensed CC BY-SA 4.0,
+https://creativecommons.org/licenses/by-sa/4.0/). Changes: prop and page names, asset paths and
+ModuleManager NEEDS. This file is licensed CC BY-SA 4.0.
+Source: https://github.com/MOARdV/AvionicsSystems
