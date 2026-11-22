@@ -8,10 +8,6 @@ ASET Avionics: https://forum.kerbalspaceprogram.com/index.php?/topic/116479-aset
 
 Module Manager: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-421-august-1st-2021-locked-inside-edition/
 
-Toolbar Controller: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-112x-toolbar-controller-for-modders/
-
-Click Through Blocker: https://forum.kerbalspaceprogram.com/index.php?/topic/170747-112x-click-through-blocker-new-dependency/
-
 Installation:
 
 Place the downloaded file inside the GameData folder & Replace any existing files as well as install all dependencies.
