@@ -1,0 +1,7 @@
+SwitchPushButton.mu and Switch_PUSH_Diffuse.dds come unmodified from ASET Props (ASET/ASET_Props/Control/SwitchPUSH).
+Switch_PUSH_Icons.dds is ASET's Switch_PUSH_Icons with two cells redrawn (ENGINE, HOVER).
+
+"ASET Props" by Alexustas, adopted by Stone Blue, is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 3.0 Unported License: these files keep that licence.
+More info: http://creativecommons.org/licenses/by-nc-sa/3.0/
+Source: https://forum.kerbalspaceprogram.com/index.php?/topic/211905-1125-181-aset-consolidated-avionics-props-iva-packs/
